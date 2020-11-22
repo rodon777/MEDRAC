@@ -18,9 +18,9 @@ El fichero contiene cuatro subficheros principales:
 1. Recursos / AutoCAD : Archivos dwg de donde se extrajeron los valores cartesianos desde puntos de contorno (vectorización).   
 
 2. Matrices / formato texto : Aqui se encuentran los archivos de texto plano de donde se introducen al programa.
+ruta = "/Users/nombre_usuario/Desktop/MEDRAC/Matrices/formato texto/"
 
 3. scripts : Archivos .r que inician el programa distribuidos en orden de ejecución + MEDRAC GUI.r (gwidget library). 
-ruta = "/Users/nombre_usuario/Desktop/MEDRAC/Matrices/formato texto/"
 
 4. Resultados / graficos : Fichero con imágenes de los gráficos que se obtienen con el programa.
 
