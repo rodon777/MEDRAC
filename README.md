@@ -1,4 +1,4 @@
-# MEDRAC v0.1
+# MEDRAC v0.1 (deprecado)
 
 http://diposit.ub.edu/dspace/handle/2445/118305
 
